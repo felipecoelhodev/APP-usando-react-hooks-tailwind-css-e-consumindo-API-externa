@@ -1,1 +1,1 @@
-APP de clima usando React JS, React Hook, Tailwind CSS e consumindo uma API externa. Nesse app usando react js é usado conceitos importantes como: eslint, funções assíncronas, eventos sintéticos, hooks, estilização e design responsivo usando tailwind css.
+APP de clima usando React JS, React Hook, Tailwind CSS e consumindo uma API externa. Nesse APP usando react js é usado conceitos importantes como: eslint, funções assíncronas, eventos sintéticos, hooks, estilização e design responsivo usando tailwind css.
